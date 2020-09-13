@@ -1,0 +1,38 @@
+.ReminderScreenRoot {
+  padding: 0px 25px;
+  background: ghostwhite;
+  height: 100vh;
+}
+.Headings {
+  color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  font-family: "Google Sans", sans-serif;
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 44px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
+}
+
+.inputText {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 7px;
+  border: 1px solid rgb(59, 82, 128);
+  height: 30px;
+  color: rgb(59, 82, 128);
+  flex-shrink: 0;
+  font-family: "Google Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.12);
+}
