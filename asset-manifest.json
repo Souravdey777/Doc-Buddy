@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Doc-Buddy/static/css/main.2d8d376b.chunk.css",
+    "main.js": "/Doc-Buddy/static/js/main.2da62757.chunk.js",
+    "main.js.map": "/Doc-Buddy/static/js/main.2da62757.chunk.js.map",
+    "runtime-main.js": "/Doc-Buddy/static/js/runtime-main.96be0659.js",
+    "runtime-main.js.map": "/Doc-Buddy/static/js/runtime-main.96be0659.js.map",
+    "static/js/2.1fcfdf76.chunk.js": "/Doc-Buddy/static/js/2.1fcfdf76.chunk.js",
+    "static/js/2.1fcfdf76.chunk.js.map": "/Doc-Buddy/static/js/2.1fcfdf76.chunk.js.map",
+    "index.html": "/Doc-Buddy/index.html",
+    "precache-manifest.f348b04c0502e71c5ffc80b73f0d59bc.js": "/Doc-Buddy/precache-manifest.f348b04c0502e71c5ffc80b73f0d59bc.js",
+    "service-worker.js": "/Doc-Buddy/service-worker.js",
+    "static/css/main.2d8d376b.chunk.css.map": "/Doc-Buddy/static/css/main.2d8d376b.chunk.css.map",
+    "static/js/2.1fcfdf76.chunk.js.LICENSE.txt": "/Doc-Buddy/static/js/2.1fcfdf76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96be0659.js",
+    "static/js/2.1fcfdf76.chunk.js",
+    "static/css/main.2d8d376b.chunk.css",
+    "static/js/main.2da62757.chunk.js"
+  ]
+}
